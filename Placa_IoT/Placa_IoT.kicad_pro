@@ -256,7 +256,11 @@
       "Resistencias"
     ],
     "pinned_symbol_libs": [
-      "Resistor"
+      "Resistor",
+      "Antennas",
+      "Connectors",
+      "IC_control",
+      "IC_power"
     ]
   },
   "meta": {
@@ -420,7 +424,7 @@
         "uuid": "c2afb48e-650f-42bf-8711-71f0f8e70388"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U1-2,#PWR1-10,C1-4,R1-2",
     "variants": []
   },
   "sheets": [
