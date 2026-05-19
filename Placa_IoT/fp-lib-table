@@ -1,4 +1,8 @@
 (fp_lib_table
 	(version 7)
 	(lib (name "Resistencias") (type "KiCad") (uri "C:/Users/user/OneDrive - Educacyl/Documentos/Cursos/Curso diseño de PCB ELE0226CL Alvaro/Curso diseño de PCB ELE0226CL/Libreria-ELE0226CL/Footprints/Resistencias.pretty") (options "") (descr ""))
+	(lib (name "Antennas") (type "KiCad") (uri "C:/Users/user/OneDrive - Educacyl/Documentos/Cursos/Curso diseño de PCB ELE0226CL Alvaro/Curso diseño de PCB ELE0226CL/HardwareLibrary/Footprints/antennas.pretty") (options "") (descr ""))
+	(lib (name "Connectors") (type "KiCad") (uri "C:/Users/user/OneDrive - Educacyl/Documentos/Cursos/Curso diseño de PCB ELE0226CL Alvaro/Curso diseño de PCB ELE0226CL/HardwareLibrary/Footprints/connectors.pretty") (options "") (descr ""))
+	(lib (name "IC_control") (type "KiCad") (uri "C:/Users/user/OneDrive - Educacyl/Documentos/Cursos/Curso diseño de PCB ELE0226CL Alvaro/Curso diseño de PCB ELE0226CL/HardwareLibrary/Footprints/ic_control.pretty") (options "") (descr ""))
+	(lib (name "IC_power") (type "KiCad") (uri "C:/Users/user/OneDrive - Educacyl/Documentos/Cursos/Curso diseño de PCB ELE0226CL Alvaro/Curso diseño de PCB ELE0226CL/HardwareLibrary/Footprints/ic_power.pretty") (options "") (descr ""))
 )

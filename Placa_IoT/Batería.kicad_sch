@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "fcc17563-e670-4c91-908d-0dca335e2d60")
+	(paper "A4")
+	(title_block
+		(title "Placa_IoT Batería")
+		(date "2026-05-19")
+		(company "ELE0226CL")
+		(comment 1 "Julio César Aguayo González")
+	)
+	(lib_symbols)
+)

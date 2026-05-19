@@ -1,0 +1,7 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Antennas") (type "KiCad") (uri "C:/Users/user/OneDrive - Educacyl/Documentos/Cursos/Curso diseño de PCB ELE0226CL Alvaro/Curso diseño de PCB ELE0226CL/HardwareLibrary/Symbols/antennas.kicad_sym") (options "") (descr ""))
+	(lib (name "Connectors") (type "KiCad") (uri "C:/Users/user/OneDrive - Educacyl/Documentos/Cursos/Curso diseño de PCB ELE0226CL Alvaro/Curso diseño de PCB ELE0226CL/HardwareLibrary/Symbols/connectors.kicad_sym") (options "") (descr ""))
+	(lib (name "IC_control") (type "KiCad") (uri "C:/Users/user/OneDrive - Educacyl/Documentos/Cursos/Curso diseño de PCB ELE0226CL Alvaro/Curso diseño de PCB ELE0226CL/HardwareLibrary/Symbols/ic_control.kicad_sym") (options "") (descr ""))
+	(lib (name "IC_power") (type "KiCad") (uri "C:/Users/user/OneDrive - Educacyl/Documentos/Cursos/Curso diseño de PCB ELE0226CL Alvaro/Curso diseño de PCB ELE0226CL/HardwareLibrary/Symbols/ic_power.kicad_sym") (options "") (descr ""))
+)
